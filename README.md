@@ -1,2 +1,2 @@
 # Alt bilgi
-Yaşar Emre Doğru
+[LinkedIn](https://www.linkedin.com/in/yasaremredogru/)
