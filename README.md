@@ -1,5 +1,5 @@
 # Alt bilgi
-Merhaba, bana aşağıdaki adreslerden ulaşabilirsiniz
+Bu repo [Patika.Dev] Node.js ile Backend Patikası Eğitiminde oluşturduğumuz ilk repo, içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 
 [LinkedIn](https://www.linkedin.com/in/yasaremredogru/)
